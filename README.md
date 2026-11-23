@@ -4,6 +4,7 @@ An asynchronous Python 3.12 LCEL pipeline that extracts a validated technical su
 
 ## Quick start
 
+Clone the entire repository; `requirements.txt` and `.env.example` are included at its root.
 From this repository on Windows, with [uv](https://docs.astral.sh/uv/) installed:
 
 ```powershell
